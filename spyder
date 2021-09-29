@@ -1,0 +1,10 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Thu Sep 30 00:08:01 2021
+
+@author: honamwon
+"""
+
+for x in range(1,11):
+  print(x) 
